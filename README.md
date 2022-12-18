@@ -1,7 +1,6 @@
 <h1>GPT-3</h1>
-<hr><p>ChatGPT is a prototype artificial intelligence chatbot developed by OpenAI which specializes in dialogue. The chatbot is a large language model fine-tuned with both supervised and reinforcement learning techniques.</p>
 ![gpt3](https://user-images.githubusercontent.com/48416945/208276546-3f80a4e6-c7c6-46c1-929e-0ab7704ce0e3.png)
-
+<hr><p>ChatGPT is a prototype artificial intelligence chatbot developed by OpenAI which specializes in dialogue. The chatbot is a large language model fine-tuned with both supervised and reinforcement learning techniques.</p>
 <h2>General Information</h2>
 <hr><ul>
 <li>A simple modern UI/UX implementation using ReactJS for ChatGPT.</li>
